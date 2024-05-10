@@ -1,24 +1,21 @@
+![Full Stack Web Developer | Web Designer](https://media.licdn.com/dms/image/D5616AQEP4o0Tr18KMw/profile-displaybackgroundimage-shrink_200_800/0/1710963178344?e=2147483647&v=beta&t=txtrB0x9Vo6Z4d4yqp5cvLPhToMUQeaTfmhWUtzmIZ8)
 ### Hi there 👋, This is Ruhul Amin
 #### Full Stack Web Developer | Web Designer
-![Full Stack Web Developer | Web Designer](https://media.licdn.com/dms/image/D5616AQEP4o0Tr18KMw/profile-displaybackgroundimage-shrink_200_800/0/1710963178344?e=2147483647&v=beta&t=txtrB0x9Vo6Z4d4yqp5cvLPhToMUQeaTfmhWUtzmIZ8)
 
 Experience
 Freedom it Institutions Graphic
 Senior Web Developer
 Freedom it Institutions
 Jun 2022 - Present 2 years
-
 Dhaka, Dhaka, Bangladesh
 
 Currently, I hold the position of Senior Web Developer at Freedom IT, where I play a pivotal role in driving the development and execution of web-based projects. Within this capacity, I am entrusted with spearheading the creation of innovative web solutions, leveraging my expertise in a diverse range of programming languages and technologies.
-
 Key Skills;
 Full-Stack Web Development
 CodemanBD Graphic
 Web Developer
 CodemanBD
 May 2022 - Present 2 years 1 month
-
 Dhaka, Bangladesh
 
 Nebraska Furniture Mart Graphic
@@ -32,37 +29,24 @@ Distillery Graphic
 Shopify Developer
 Distillery
 Jan 2023 - Nov 2023 11 months
-
 United States
 
 Developing a greenfield web app and develop customer facing features to configure our plugin in their Shopify Store and enable package protection for our customers
 Learning to use the Shopify SDKs and APIs to build an efficient Shopify App which can display our customer’s products which have enabled package protection, then keep track of the orders, their status and any issues.
 
-
 Develop optimization strategies that increase the company's search engine result rankings.
 Execute tests, collect and analyze data and results, identify trends and insights in order to achieve maximum ROI.
 Perform ongoing keyword discovery, expansion and optimization.
-
 UI/UX Designer, Web Applications
 Splunk
 Apr 2022 - Jan 2023 10 months
-
 United States
 
 Work closely with product managers and engineering teams, to deliver best-in-class user experiences and compelling visual designs for a diverse portfolio of internal and external applications
-
 Search Engine Optimization Specialist
 Notion
 Jul 2022 - Dec 2022 6 months
-
 Australia
-
-Expertise in data visualization and information architecture
-Expertise in using industry-standard design and prototyping tools, such as Sketch, Figma, Adobe CC
-Expertise creating prototypes to communicate design concepts to users and project partners
-Excellent communication skills, both written and verbal
-Experience in a fast-paced, iterative development environment
-
 Skills: HTML  / CSS /JAVASCRIPT  /  REACT /  BOOTSTRAP / JQUERY / PHP / MYSQL / WORDPRESS DEVELOPMENT
 
 - 🔭 I’m currently working on Web Designer | Web Developer | WordPress Development 
