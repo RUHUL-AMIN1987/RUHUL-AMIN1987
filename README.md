@@ -1,6 +1,8 @@
-### Hi there 👋, This is Ruhul Amin
-#### Full Stack Web Developer | Web Designer
 ![Full Stack Web Developer | Web Designer](https://media.licdn.com/dms/image/D5616AQEP4o0Tr18KMw/profile-displaybackgroundimage-shrink_200_800/0/1710963178344?e=2147483647&v=beta&t=txtrB0x9Vo6Z4d4yqp5cvLPhToMUQeaTfmhWUtzmIZ8)
+
+# Hi there 👋, This is Ruhul Amin
+## Full Stack Web Developer | Web Designer
+
 
 Experience Freedom it Institutions Graphic Senior Web Developer Freedom it Institutions Jun 2022 - Present 2 years Dhaka, Bangladesh
 
