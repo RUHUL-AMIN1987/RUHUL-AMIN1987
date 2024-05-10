@@ -2,7 +2,44 @@
 #### Full Stack Web Developer | Web Designer
 ![Full Stack Web Developer | Web Designer](https://media.licdn.com/dms/image/D5616AQEP4o0Tr18KMw/profile-displaybackgroundimage-shrink_200_800/0/1710963178344?e=2147483647&v=beta&t=txtrB0x9Vo6Z4d4yqp5cvLPhToMUQeaTfmhWUtzmIZ8)
 
-Experience Freedom it Institutions Graphic Senior Web Developer Freedom it Institutions Jun 2022 - Present 2 years Dhaka, Dhaka, Bangladesh
+Experience Freedom it Institutions Graphic Senior Web Developer Freedom it Institutions Jun 2022 - Present 2 years Dhaka, Bangladesh
+
+Senior Web Developer
+Freedom it Institutions
+Jun 2022 - Present 2 years
+Dhaka, Dhaka, Bangladesh
+Key Skills;
+Full-Stack Web Development
+
+Web Developer
+CodemanBD
+May 2022 - Present 2 years 1 month
+Dhaka, Bangladesh
+
+User Experience Designer
+Nebraska Furniture Mart
+Jan 2022 - Mar 2024 2 years 3 months
+Nebraska, United States
+
+Shopify Developer
+Distillery
+Jan 2023 - Nov 2023 11 months
+United States
+
+Search Engine Optimization Specialist (SEO)
+Brasseler USA
+Nov 2022 - Mar 2023 5 months
+Greater Savannah Area
+
+UI/UX Designer, Web Applications
+Splunk
+Apr 2022 - Jan 2023 10 months
+United States
+
+Search Engine Optimization Specialist
+Notion
+Jul 2022 - Dec 2022 6 months
+Australia
 
 Skills: HTML / CSS /JAVASCRIPT / REACT / BOOTSTRAP / JQUERY / PHP / MYSQL / WORDPRESS DEVELOPMENT
 
