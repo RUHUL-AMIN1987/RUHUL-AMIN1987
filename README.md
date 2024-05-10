@@ -31,12 +31,6 @@ Distillery
 Jan 2023 - Nov 2023 11 months
 United States
 
-Developing a greenfield web app and develop customer facing features to configure our plugin in their Shopify Store and enable package protection for our customers
-Learning to use the Shopify SDKs and APIs to build an efficient Shopify App which can display our customer’s products which have enabled package protection, then keep track of the orders, their status and any issues.
-
-Develop optimization strategies that increase the company's search engine result rankings.
-Execute tests, collect and analyze data and results, identify trends and insights in order to achieve maximum ROI.
-Perform ongoing keyword discovery, expansion and optimization.
 UI/UX Designer, Web Applications
 Splunk
 Apr 2022 - Jan 2023 10 months
