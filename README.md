@@ -37,21 +37,12 @@ United States
 
 Developing a greenfield web app and develop customer facing features to configure our plugin in their Shopify Store and enable package protection for our customers
 Learning to use the Shopify SDKs and APIs to build an efficient Shopify App which can display our customer’s products which have enabled package protection, then keep track of the orders, their status and any issues.
-Understanding Shopify’s app review process to deploy the first version of the app and make future…Show more 
-Brasseler USA Graphic
-Search Engine Optimization Specialist (SEO)
-Brasseler USA
-Nov 2022 - Mar 2023 5 months
 
-Greater Savannah Area
 
 Develop optimization strategies that increase the company's search engine result rankings.
 Execute tests, collect and analyze data and results, identify trends and insights in order to achieve maximum ROI.
 Perform ongoing keyword discovery, expansion and optimization.
-Continually check search terms, rankings and analytics to monitor the performance of websites and make recommendations for improvement.
-Work with the Social Media Specialist to distribute content and encourage link building.
-Work with SMEs to drive SEO in content creation and content programming.Show less 
-Splunk Graphic
+
 UI/UX Designer, Web Applications
 Splunk
 Apr 2022 - Jan 2023 10 months
@@ -59,11 +50,7 @@ Apr 2022 - Jan 2023 10 months
 United States
 
 Work closely with product managers and engineering teams, to deliver best-in-class user experiences and compelling visual designs for a diverse portfolio of internal and external applications
-Perform usability studies to challenge established thinking and discover new ways of solving problems
-Develop user workflow diagrams, storyboards, prototypes, and wireframes
-Develop compelling visual designs for products that excite end-users and create brand awareness
-Present designs and…Show more 
-Notion Graphic
+
 Search Engine Optimization Specialist
 Notion
 Jul 2022 - Dec 2022 6 months
