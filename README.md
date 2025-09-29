@@ -13,14 +13,14 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="[[https://github-readme-stats.vercel.app/api?username=ruhulamin&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400](https://github.com/RUHUL-AMIN1987)" alt="ruhulamin's GitHub Stats" width="49%](https://github.com/RUHUL-AMIN1987)" />
-  <img src="https://streak-stats.demolab.com/?user=ruhulamin&theme=nightowl&hide_border=true&cache_seconds=86400" alt="ruhulamin's GitHub Streak" width="49%" />
+  <img src="[[[https://github-readme-stats.vercel.app/api?username=ruhulamin&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400](https://github.com/RUHUL-AMIN1987)" alt="ruhulamin's GitHub Stats" width="49%](https://github.com/RUHUL-AMIN1987)](https://github.com/RUHUL-AMIN1987)" />
+  <img src="[https://streak-stats.demolab.com/?user=ruhulamin&theme=nightowl&hide_border=true&cache_seconds=86400" alt="ruhulamin's GitHub Streak" width="49%](https://github.com/RUHUL-AMIN1987)" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruhulamin&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ruhul Amin's GitHub Trophies" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=ruhulamin&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ruhul Amin's GitHub Trophies](https://github.com/RUHUL-AMIN1987)" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ruhulamin&theme=nightowl&radius=10" alt="ruhulamin's Activity Graph" />
+  <img height="280em" src="[https://github-readme-activity-graph.vercel.app/graph?username=ruhulamin&theme=nightowl&radius=10" alt="ruhulamin's Activity Graph](https://github.com/RUHUL-AMIN1987)" />
 </p>
 
 
