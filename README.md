@@ -1,63 +1,28 @@
-![Full Stack Web Developer | Web Designer](https://media.licdn.com/dms/image/D5616AQEP4o0Tr18KMw/profile-displaybackgroundimage-shrink_200_800/0/1710963178344?e=2147483647&v=beta&t=txtrB0x9Vo6Z4d4yqp5cvLPhToMUQeaTfmhWUtzmIZ8)
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Ruhul Amin</h1>
+<h3 align="center">Web designer | developer</h3>
 
-# Hi there 👋 This is Ruhul Amin
-## Full Stack Web Developer | Web Designer
+## 🛠️ Languages & Tools
 
+### Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
 
-Experience Freedom it Institutions Graphic Senior Web Developer Freedom it Institutions Jun 2022 - Present 2 years Dhaka, Bangladesh
+### Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /></p>
 
-Senior Web Developer
-Freedom it Institutions
-Jun 2022 - Present 2 years
-Dhaka, Dhaka, Bangladesh
-Key Skills;
-Full-Stack Web Development
+### Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
 
-Web Developer
-CodemanBD
-May 2022 - Present 2 years 1 month
-Dhaka, Bangladesh
+### Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
 
-User Experience Designer
-Nebraska Furniture Mart
-Jan 2022 - Mar 2024 2 years 3 months
-Nebraska, United States
+## 🔗 Connect with Me
+<p align="center"><a href="http://linkedin.com/in/ruhul-amin-ruhul-amin/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/1714237145" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:ruhulamin3052@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="www.exproruhulamin.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-Shopify Developer
-Distillery
-Jan 2023 - Nov 2023 11 months
-United States
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
-Search Engine Optimization Specialist (SEO)
-Brasseler USA
-Nov 2022 - Mar 2023 5 months
-Greater Savannah Area
-
-UI/UX Designer, Web Applications
-Splunk
-Apr 2022 - Jan 2023 10 months
-United States
-
-Search Engine Optimization Specialist
-Notion
-Jul 2022 - Dec 2022 6 months
-Australia
-
-Skills: HTML / CSS /JAVASCRIPT / REACT / BOOTSTRAP / JQUERY / PHP / MYSQL / WORDPRESS DEVELOPMENT
-
-- 🔭 I’m currently working on Web Designer | Web Developer | WordPress Development 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Guthub 
-- 💬 Ask me about Web Design Web Development WordPress Development eCommerce Development Landing Page Wesign 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RUHUL-AMIN1987)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ruhul-amin-ruhul-amin//)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/RUHUL-AMIN1987)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/RUHUL-AMIN1987)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/RUHUL-AMIN1987)  
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
