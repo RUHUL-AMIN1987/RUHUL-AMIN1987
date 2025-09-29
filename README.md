@@ -12,7 +12,7 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
+<!-- <p align="center">
   <img src="[[[https://github-readme-stats.vercel.app/api?username=ruhulamin&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400](https://github.com/RUHUL-AMIN1987)" alt="ruhulamin's GitHub Stats" width="49%](https://github.com/RUHUL-AMIN1987)](https://github.com/RUHUL-AMIN1987)" />
   <img src="[https://streak-stats.demolab.com/?user=ruhulamin&theme=nightowl&hide_border=true&cache_seconds=86400" alt="ruhulamin's GitHub Streak" width="49%](https://github.com/RUHUL-AMIN1987)" />
 </p>
@@ -21,7 +21,7 @@
 </p>
 <p align="center">
   <img height="280em" src="[https://github-readme-activity-graph.vercel.app/graph?username=ruhulamin&theme=nightowl&radius=10" alt="ruhulamin's Activity Graph](https://github.com/RUHUL-AMIN1987)" />
-</p>
+</p> -->
 
 
 ## 🛠️ Languages & Tools
