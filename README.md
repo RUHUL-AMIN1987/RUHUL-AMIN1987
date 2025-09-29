@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="ruhulamin's GitHub Stats" width="49%" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=ruhulamin&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400](https://github.com/RUHUL-AMIN1987)" alt="ruhulamin's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=ruhulamin&theme=nightowl&hide_border=true&cache_seconds=86400" alt="ruhulamin's GitHub Streak" width="49%" />
 </p>
 <p align="center">
