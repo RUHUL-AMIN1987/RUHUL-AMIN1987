@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Ruhul Amin</h1>
-<h3 align="center">Web designer | developer</h3>
+<h3 align="center">Web Designer | Developer</h3>
 
 <img src="https://exproruhulamin.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" /> 
 
